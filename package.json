@@ -1,16 +1,16 @@
 {
-"name": "partypg",
-"theme": "party pg",
-"version": "8.9.10",
-"description": "party pg ทางเข้าหลักเว็บบาคาร่าเว็บตรง สมาชิกเยอะ ให้เงินเครดิตฟรี",
-"keywords": [
-"party pg",
-"party pg เครดิตฟรี",
-"party pg ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/partypg",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "partypg",
+  "theme": "party pg",
+  "version": "8.10.0",
+  "description": "party pg ทางเข้าหลักเว็บบาคาร่าเว็บตรง สมาชิกเยอะ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "party pg",
+    "party pg เครดิตฟรี",
+    "party pg ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/partypg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
